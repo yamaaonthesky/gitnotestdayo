@@ -1,0 +1,2 @@
+# gitnotestdayo
+gitのテスト用
